@@ -8,5 +8,7 @@ dev分支添加的内容
 =======
 master添加内容
 feature添加
+
+修复bug添加
  
 >>>>>>> cf46f16 (master分支上修改bug提交)
